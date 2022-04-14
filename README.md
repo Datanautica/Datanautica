@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning R and I want to learn Python
 - 💞️ I’m looking to collaborate on ML project
-- 📫 How to reach me: Datanautica@outloock.it
+- 📫 How to reach me: Datanautica@outlook.it
 
 <!---
 Datanautica/Datanautica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
